@@ -15,3 +15,16 @@ register:
 头文件里面的全局变量可能会被多个文件引用而造成错误
 
 3.3.5 Compilerdirektiven und Makros
+
+template function
+编译器会根据需要生成所需要的各个function.
+
+特殊情况具体设计的template
+
+template<>
+bool kleiner<int>(const int& a, const int& b)
+  {...}
+  
+也可以用函数重载，但是函数重载有隐形类型转换的问题
+
+inline程序，应该在头文件里
