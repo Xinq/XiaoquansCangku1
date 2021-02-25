@@ -21,4 +21,11 @@ im Stich lassen
 责备
 辜负  
 
-veranschaulich  说明
+veranschaulich  说明  
+Ausprägung
+reine
+betrachten
+  
+  Expression
+pure
+view
