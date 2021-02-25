@@ -19,4 +19,6 @@ im Stich lassen
 得出 
 注重
 责备
-辜负
+辜负  
+
+veranschaulich  说明
