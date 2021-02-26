@@ -28,4 +28,39 @@ betrachten
   
   Expression
 pure
-view
+view  
+  
+  die Zukunft voraussehen
+
+sich mit einer Frage befassen
+
+sich die Zukunft ausmalen
+
+ferne Galaxien erkunden
+
+andere Planeten bewohnen
+
+der Realität nahekommen
+
+Voraussetzungen schaffen
+
+eine Prognose abgeben  
+
+  
+  预见未来
+
+应事
+
+畅想未来
+
+探索远古星系
+
+异星
+
+靠近现实
+
+创造条件
+
+预测  
+  
+  
