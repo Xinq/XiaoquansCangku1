@@ -44,6 +44,9 @@ der Realität nahekommen
 
 Voraussetzungen schaffen
 
+
+  
+
 eine Prognose abgeben  
 
   
@@ -62,5 +65,14 @@ eine Prognose abgeben
 创造条件
 
 预测  
+
+Klientel 客户  
+
+    
+  Abnehmer 买家  
+  alteingesessene 老字号  
   
+    
+    herannahenden   逼近  
+    beanspruchenden 苛刻
   
