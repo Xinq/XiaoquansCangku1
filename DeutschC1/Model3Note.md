@@ -75,4 +75,10 @@ Klientel 客户
     
     herannahenden   逼近  
     beanspruchenden 苛刻
-  
+geistig  mental  
+
+erschaffen  create  
+
+entbehrlich expendable 消耗性
+
+einschreiten intervence 干预  
