@@ -32,3 +32,11 @@ Gut, so machen wir das.
 ... Darauf könnten wir uns doch einigen.
 Lass uns / Lassen Sie uns folgendes vereinbaren: ...  
 </b>  
+
+  
+erschöpften  疲惫  
+aufopfern sacrifice 牺牲  
+verzichten do without  
+verdanken owe 欠下  
+
+
