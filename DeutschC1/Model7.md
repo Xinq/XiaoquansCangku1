@@ -39,4 +39,7 @@ aufopfern sacrifice 牺牲
 verzichten do without  
 verdanken owe 欠下  
 
+Rücklagen  Reserve  
+
+Erbschaft Inheritance 继承  
 
