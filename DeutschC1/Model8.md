@@ -24,3 +24,17 @@ Erachten meine Meinung nach
 erkunden explore  
 schildern describe  
 rezension review  
+etablieren establish
+
+ausweiten expand   
+bebauen build  
+leiden suffer  
+vermutlich probably  
+Promenad 走道  
+fördern promote  
+Ausbau Expansion  
+Auswirkung Impact  
+Stürme Storms  
+zuhörend Listener  
+einleiten initiate  
+überleiten transition  
