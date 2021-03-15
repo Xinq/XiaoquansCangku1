@@ -13,3 +13,14 @@ zurückführen return
 erschließen develop  
 Gehstrecke walking distance  
 
+verbringen spend  
+decken cover  
+absolvieren graduate  
+es nieselt 蒙蒙细雨  
+ehrenamtlich  自愿的， volunteer  
+ablegen 放置，脱下，启航  
+Erachten meine Meinung nach  
+
+erkunden explore  
+schildern describe  
+rezension review  
