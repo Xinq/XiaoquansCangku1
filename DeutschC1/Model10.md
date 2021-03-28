@@ -11,4 +11,7 @@ Stichpunkten 关键词
 Schicksal 命运  
 beugen 鞠躬  
 vergeblich in vain 徒劳的  
+engagieren 雇佣  
+Angeblich 据称  
+
 
